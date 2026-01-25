@@ -5,7 +5,7 @@
   ],
   "routes": [
     { "src": "/shamir", "dest": "/shamir.js" },
-    { "src": "/Kalopass", "dest": "/Kalopass.js" },
+    { "src": "/naveed", "dest": "/naveed.js" },
     { "src": "/Sabir", "dest": "/Sabir.js" },
     { "src": "/Sabirpass", "dest": "/Sabirpass.js" },
     { "src": "/ahtsham", "dest": "/ahtsham.js" },
